@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.black{
+    background: #000000;
+}
+
+.logo{
+    width: 720px;
+    height: 223px;
+    margin-right: 100px;
+}
+
+
+.blue{
+    background: #060061;
+}
+
+.purple{
+    background: #500299;
+}
+
+.gray{
+    background: #888796;
+}
+
+.pershkrimi{
+    color: chartreuse;
+    background: #000000;
+}
